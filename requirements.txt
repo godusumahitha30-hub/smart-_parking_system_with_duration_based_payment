@@ -1,6 +1,6 @@
-ultralytics
-opencv-python
 streamlit
-pandas
-numpy
+opencv-python-headless
+ultralytics
 deep-sort-realtime
+numpy
+pandas
